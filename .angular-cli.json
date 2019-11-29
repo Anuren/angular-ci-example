@@ -60,4 +60,7 @@
       "spec": false
     }
   }
+ "assets": [ "src/favicon.ico",
+"src/assets",
+"src/web.config"]
 }
